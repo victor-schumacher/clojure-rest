@@ -10,4 +10,4 @@ On root folder:
 
 ### Paths
 
-GET: localhost:3000/hello
+GET:  http:/127.0.0.1:3000/hello
