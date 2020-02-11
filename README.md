@@ -8,6 +8,6 @@ On root folder:
 
     $ lein run 
 
-## Usage
+### Paths
 
-GET: http://127.0.0.1:3000/hello
+GET: localhost:3000/hello
